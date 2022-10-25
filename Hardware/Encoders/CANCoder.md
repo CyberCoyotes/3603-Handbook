@@ -1,3 +1,5 @@
+3603 Bots Utulizing: TAZ, TAZ 2.0 
+
 ##
 CTRE note: Before you can use any(?) CTRE product, you must
 <ul>
@@ -14,5 +16,4 @@ Install the vendor dependencies for CTRE;
 </details>
 </li>
 </ul> 
-
-A CTRE motor controller that comes with a built-in CANCoder, with a Falcon 500 motor built-in.
+A magnetic encoder, built into the TalonFX.

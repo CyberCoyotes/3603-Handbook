@@ -1,3 +1,5 @@
+3603 Bots Utulizing: Unnamed Charged Up bot 
+
 ##
 CTRE note: Before you can use any(?) CTRE product, you must
 <ul>
@@ -14,5 +16,3 @@ Install the vendor dependencies for CTRE;
 </details>
 </li>
 </ul> 
-
-A CTRE motor controller that comes with a built-in CANCoder, with a Falcon 500 motor built-in.

@@ -17,5 +17,6 @@ Install the vendor dependencies for CTRE;
 
 </details>
 </li>
-<li></li>
-</ul> 
+</ul>
+
+A bare, CTRE motor controller. 
